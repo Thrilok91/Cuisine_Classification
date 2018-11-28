@@ -1,7 +1,5 @@
 # Classifier.py
 #
-# Author: Steven Jorgensen
-# Date: 04/22/17
 # 
 # An implementation of 3 different text classifiers.
 
